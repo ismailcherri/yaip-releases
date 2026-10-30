@@ -1,0 +1,12 @@
+[Flatpak Ref]
+Name=com.ismailcherri.apps.yaip
+Branch=stable
+Title=YAIP
+Comment=Yet Another IPTV Player
+Url=https://ismailcherri.github.io/yaip-releases/repo/
+Homepage=https://yaip.duckdns.org
+Icon=https://ismailcherri.github.io/yaip-releases/yaip.png
+IsRuntime=false
+SuggestRemoteName=yaip
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+GPGKey=mDMEauSMShYJKwYBBAHaRw8BAQdATkmddHHPjJ9Vz6TLuateGTcfZ8nnxf6UeXVOO9LHdSS0MFlBSVAgRmxhdHBhayByZXBvc2l0b3J5IDxpc21haWxjaGVycmlAZ21haWwuY29tPoiQBBMWCAA4FiEE7oitTFK9Ng+8TuxYEBeoM8Dd4U8FAmrkjEoCGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQEBeoM8Dd4U+WhwEAnZs4guUZjjcHjt9Q7qtSyjYlWJifj3o0Bll9Y0i5jQgA/j0oIifD9gd8KIDxzjnaD2VlqLMinZIK4FX3BbPEtkgD
