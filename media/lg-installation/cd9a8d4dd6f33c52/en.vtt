@@ -1,0 +1,115 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.157
+On your Windows computer or Mac, open the YAIP website shown here. Choose
+Download, find LG TV, and open Set up on my LG TV.
+
+00:00:12.016 --> 00:00:20.944
+On the LG setup page, click Download LG test kit. Wait for the download to
+finish. You will find the ZIP in your Downloads folder.
+
+00:00:21.223 --> 00:00:33.193
+On Windows, open Downloads. Right-click the ZIP and choose Extract All. In the
+next window, click Extract. Open the folder it creates.
+
+00:00:33.471 --> 00:00:43.862
+On a Mac, open Downloads and double-click the ZIP. Then open the folder it
+creates. If your browser already unpacked the ZIP, open that folder.
+
+00:00:44.976 --> 00:00:52.941
+Keep these files together, including the files folder. Follow only the Windows
+or Mac steps for your computer.
+
+00:00:53.893 --> 00:00:57.283
+We will open the installer after getting the TV ready.
+
+00:00:57.887 --> 00:01:08.382
+Make sure your computer and LG TV are on the same home network, with internet
+access. Wi-Fi or a network cable is fine. Avoid a guest network.
+
+00:01:08.905 --> 00:01:19.400
+In the YAIP guide, open LG’s account and Developer Mode guide. Choose Sign In.
+Create a free LG developer account, or sign in to yours.
+
+00:01:20.433 --> 00:01:22.883
+Complete any setup LG asks for.
+
+00:01:23.231 --> 00:01:32.438
+On your TV, press Home on the remote. Open Apps or LG Content Store. Search
+for Developer Mode, select it, and choose Install.
+
+00:01:32.845 --> 00:01:39.311
+Open Developer Mode on the TV. Sign in with the email and password for your LG
+developer account.
+
+00:01:39.996 --> 00:01:47.369
+Find Dev Mode Status and turn it on. The TV will restart. Let it finish before
+continuing.
+
+00:01:47.752 --> 00:01:51.606
+When the TV has restarted, open Developer Mode again.
+
+00:01:52.117 --> 00:01:58.874
+Now turn on Key Server. Leave this Developer Mode screen open while you return
+to your computer.
+
+00:02:00.175 --> 00:02:10.356
+Find IP Address and Passphrase on that screen. You will type these into the
+installer. Your TV’s values will be different from our examples.
+
+00:02:11.250 --> 00:02:17.578
+Back in the extracted kit folder, Windows users double-click Install on
+Windows dot cmd.
+
+00:02:18.228 --> 00:02:25.171
+Mac users double-click Install on Mac dot command. Only open the installer for
+your computer.
+
+00:02:25.925 --> 00:02:38.290
+If Windows shows Windows protected your PC for the kit from the YAIP website,
+choose More info, then Run anyway if offered. Keep Windows protection on.
+
+00:02:38.615 --> 00:02:46.510
+If your Mac blocks this installer as an unidentified developer, open System
+Settings, then Privacy and Security.
+
+00:02:46.939 --> 00:02:54.428
+Find the installer’s message, choose Open Anyway, and confirm Open. For other
+warnings, check the guide.
+
+00:02:55.670 --> 00:03:03.449
+A text window opens. That is the installer. You do not need to write commands.
+Just answer its two questions.
+
+00:03:03.809 --> 00:03:14.408
+When it asks for the TV IP address, read IP Address on your TV. Type those
+numbers, including the dots, then press Enter on your keyboard.
+
+00:03:15.210 --> 00:03:23.301
+Next, type the Passphrase from that same TV screen and press Enter. Match
+capital and small letters exactly.
+
+00:03:23.510 --> 00:03:26.668
+Use your TV’s passphrase, not your LG account password.
+
+00:03:27.272 --> 00:03:36.653
+The kit now connects, copies the app, and installs YAIP. Keep your TV on and
+wait. This can take a minute. Our example is sped up.
+
+00:03:36.932 --> 00:03:49.470
+Wait for Done. YAIP should open on your TV. If it does not, open it from the
+TV’s app list. Add your own playlist; YAIP does not provide content.
+
+00:03:49.737 --> 00:03:57.783
+Keep Developer Mode on. Check its timer regularly and press Extend before it
+reaches zero, while connected to the internet.
+
+00:03:58.294 --> 00:04:03.309
+If Developer Mode expires or is disabled, test apps are removed.
+
+00:04:03.751 --> 00:04:12.214
+If anything goes wrong, return to the same written guide. It has help for
+Windows, Mac, and connecting to your TV.
+
+00:04:13.027 --> 00:04:16.069
+Pause this video whenever you need more time.
