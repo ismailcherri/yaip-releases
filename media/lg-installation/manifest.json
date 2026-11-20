@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "revision": "cd9a8d4dd6f33c52",
+  "videos": {
+    "en": {
+      "duration": 256.083333,
+      "size": 13585852,
+      "sha256": "4eefaf184c1ceb364a0f103725e6aa39cb42f9f3ce18e82494e0363706588026",
+      "src": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/en.mp4",
+      "poster": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/en.png",
+      "captions": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/en.vtt",
+      "transcript": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/en.html"
+    },
+    "ar": {
+      "duration": 258.458333,
+      "size": 13319525,
+      "sha256": "83a60587c36a54d7c470f703dda7ac2944911a61867b5678c87ab10e944bfd5e",
+      "src": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/ar.mp4",
+      "poster": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/ar.png",
+      "captions": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/ar.vtt",
+      "transcript": "https://ismailcherri.github.io/yaip-releases/media/lg-installation/cd9a8d4dd6f33c52/ar.html"
+    }
+  }
+}

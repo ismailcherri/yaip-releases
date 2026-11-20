@@ -1,0 +1,180 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.925
+Start on your Windows computer or Mac. Open the YAIP website, choose Download,
+then Samsung. Open the Samsung setup guide.
+
+00:00:11.355 --> 00:00:14.930
+Keep it nearby so you can pause and follow each step.
+
+00:00:15.511 --> 00:00:24.218
+Samsung requires test apps to be signed for each television. First, you will
+download a small kit that reads your TV’s unique ID.
+
+00:00:25.229 --> 00:00:31.626
+After registration, the bot will send a different kit that can install YAIP on
+your TV.
+
+00:00:32.357 --> 00:00:38.488
+In the guide, click Download Samsung TV ID kit. Save the ZIP on your computer.
+
+00:00:39.347 --> 00:00:43.387
+If you are reading on your phone, open the guide on the computer before
+continuing.
+
+00:00:44.293 --> 00:00:57.539
+On Windows, open Downloads. Right-click the ZIP, choose Extract All, then
+Extract. Open the new folder. Do not run the installer from inside the ZIP.
+
+00:00:57.818 --> 00:01:08.999
+On Mac, open Downloads and double-click the ZIP to unpack it. Then open the
+new folder. If your browser already unpacked the download, use that folder.
+
+00:01:09.440 --> 00:01:17.834
+Keep all the extracted files together, including the folder named files. Next,
+open the installer for your computer.
+
+00:01:18.217 --> 00:01:22.222
+You do not need Samsung’s developer tools or a developer account.
+
+00:01:23.035 --> 00:01:33.229
+If you use Windows, double-click the Windows installer highlighted on screen.
+Its filename is Install on Windows, ending in dot C M D.
+
+00:01:33.542 --> 00:01:41.205
+If you use Mac, double-click Install on Mac dot command. Choose only the
+installer that matches your computer.
+
+00:01:41.623 --> 00:01:48.357
+If Windows blocks this official YAIP kit, choose More info, then Run anyway if
+offered.
+
+00:01:49.018 --> 00:01:57.633
+If asked, allow Samsung’s connection tool on your private home network. Do not
+turn off Windows protection or the firewall.
+
+00:01:58.237 --> 00:02:06.608
+If Mac blocks the installer because its developer is unidentified, open System
+Settings, then Privacy and Security.
+
+00:02:07.548 --> 00:02:18.206
+Find the installer message, choose Open Anyway, and confirm. On Apple silicon,
+follow any Rosetta prompt. Never send your Mac password to the bot.
+
+00:02:18.473 --> 00:02:29.363
+Make sure the computer and TV are on the same home network, with internet
+access. Avoid guest Wi-Fi. A VPN may prevent the devices from seeing each
+other.
+
+00:02:29.746 --> 00:02:38.303
+A text window opens. This is the installer. Find the line showing this
+computer’s IP address and leave the window open.
+
+00:02:38.999 --> 00:02:42.111
+You will enter that computer address on the television next.
+
+00:02:42.738 --> 00:02:48.926
+On the TV, press Home and open Apps. On some newer models, open App Settings
+inside Apps.
+
+00:02:49.936 --> 00:02:54.475
+Menu names can vary, so use the written guide if your screen looks different.
+
+00:02:55.207 --> 00:03:06.782
+Enter one, two, three, four, five using the remote’s number buttons or its
+on-screen number keypad. The Developer Mode window should appear.
+
+00:03:07.281 --> 00:03:16.128
+In that window, turn Developer mode on. This is a built-in Samsung setting.
+You do not need to install a separate Developer Mode app.
+
+00:03:16.824 --> 00:03:28.852
+In Host PC IP, enter the computer’s IP address shown by the installer, then
+confirm. Use your own computer’s address, not the example in this video.
+
+00:03:29.456 --> 00:03:32.243
+Do not enter the TV’s address in this field.
+
+00:03:32.684 --> 00:03:44.155
+Restart the television as described in the kit. Switch it off, unplug it for
+thirty seconds, then reconnect it and turn it on. Keep Developer Mode enabled.
+
+00:03:44.538 --> 00:03:54.696
+Find the TV’s own IP address in its network settings, under Network Status and
+IP Settings. This is a different address from the computer’s.
+
+00:03:54.871 --> 00:04:00.385
+The computer address goes on the TV; the TV address goes into the installer.
+
+00:04:00.896 --> 00:04:11.879
+Return to the installer on your computer. When it asks for the TV IP address,
+type the address from your television, including the dots, and press Enter.
+
+00:04:12.947 --> 00:04:15.652
+The installer will read the TV’s ID.
+
+00:04:15.966 --> 00:04:26.461
+Wait for Your TV ID. The complete ID is copied to the clipboard and saved in
+the text file shown on screen, inside the extracted folder.
+
+00:04:27.099 --> 00:04:35.888
+Keep any version prefix. Use this ID, not a serial number or MAC address. This
+first kit does not install YAIP.
+
+00:04:36.631 --> 00:04:46.720
+Back in the guide, choose Register my TV on Telegram. Open the bot and press
+Start if asked, or send the slash Samsung command shown on screen.
+
+00:04:47.417 --> 00:04:56.183
+Paste only your complete TV ID and send it. Wait for the bot to confirm that
+it is saved. No password is needed.
+
+00:04:57.135 --> 00:05:04.402
+Samsung includes TV IDs in the downloadable test certificate and kit, while
+your Telegram account stays private.
+
+00:05:04.727 --> 00:05:15.280
+Your registration is now saved. The developer starts signing batches, so the
+install kit is not ready immediately and there is no fixed waiting time.
+
+00:05:15.791 --> 00:05:20.772
+Keep the bot chat available. You can check your status with the same command.
+
+00:05:21.213 --> 00:05:30.199
+Later, the bot will tell you when a verified install kit includes your TV.
+Download the ZIP from that message on your computer.
+
+00:05:31.012 --> 00:05:36.375
+Use your own bot link, because another tester’s kit may not include your
+television.
+
+00:05:36.851 --> 00:05:48.554
+Extract this new ZIP into a new folder and keep all its files together. Read
+Read Me First, then open the Windows or Mac installer again.
+
+00:05:49.042 --> 00:05:53.488
+Make sure you are running the new signed kit, not the old ID kit.
+
+00:05:53.999 --> 00:06:03.182
+Keep Developer Mode on and check that Host PC IP still matches your computer.
+Enter the television’s current IP address in the installer.
+
+00:06:03.566 --> 00:06:12.250
+This kit includes your TV, so it transfers and installs YAIP. Leave the
+television on and wait for completion.
+
+00:06:12.947 --> 00:06:23.616
+YAIP should open on the TV. Later, open it from Apps and add your own
+playlist. YAIP is a free player and includes no content.
+
+00:06:24.139 --> 00:06:30.582
+For an update, run a newer kit supplied for your TV. Keep the existing app to
+preserve local profiles.
+
+00:06:31.279 --> 00:06:41.844
+If you get stuck, return to the written guide or ask the support bot. Tell it
+your TV model, computer system, the step and the error.
+
+00:06:42.785 --> 00:06:49.553
+Hide passwords and TV IDs in screenshots. Pause this video whenever you need
+more time.

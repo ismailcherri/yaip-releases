@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "revision": "f764d451ae87c618",
+  "videos": {
+    "en": {
+      "duration": 409.583333,
+      "size": 19340162,
+      "sha256": "ad996ed488b77fae5fe1539bc0cd6a11f09b11af217cac8ca8a8ce7bca380a0e",
+      "src": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/en.mp4",
+      "poster": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/en.png",
+      "captions": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/en.vtt",
+      "transcript": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/en.html"
+    },
+    "ar": {
+      "duration": 385.625,
+      "size": 18022230,
+      "sha256": "ffcf1a568124426e038dc11f378078cf4e9686df0283c67b5b923d904687f29d",
+      "src": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/ar.mp4",
+      "poster": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/ar.png",
+      "captions": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/ar.vtt",
+      "transcript": "https://ismailcherri.github.io/yaip-releases/media/samsung-installation/f764d451ae87c618/ar.html"
+    }
+  }
+}
